@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hr</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_password">Employee Password</string>
+    <string name="add_employee">Add Employee</string>
+
+    <string name="facebook_app_id">1079749292125530</string>
+    <string name="fb_login_protocol_scheme">fb1079749292125530</string>
+
+    <string name="emp_name_blank">Employee Name cannot be blank.</string>
+    <string name="emp_name_invalid">Employee Name is invalid.</string>
+    <string name="emp_email_blank">Email Id cannot be blank.</string>
+    <string name="emp_email_invalid">Invalid Email Id.</string>
+    <string name="password_blank">Password Cannot be blank.</string>
+    <string name="confirm_password_blank">Confirm Password Cannot be blank.</string>
+    <string name="password_not_matches">Password and Confirm Password should be same.</string>
+    <string name="password_lenngth">Password length should be betweeen 8 to 15 characters.</string>
+    <string name="digits_for_password">Password Should contain a digit.</string>
+    <string name="lower_case_password">Password Should contain a lower case.</string>
+    <string name="special_character_password">Password Should contain a special Character(@, #, $, *).</string>
+</resources>
