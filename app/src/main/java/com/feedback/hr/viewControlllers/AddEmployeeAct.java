@@ -1,8 +1,7 @@
-package com.feedback.hr;
+package com.feedback.hr.viewControlllers;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.design.widget.Snackbar;
 import android.text.TextUtils;
 import android.util.Log;
 import android.util.Patterns;
@@ -11,8 +10,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 
+import com.feedback.hr.model.Employee;
+import com.feedback.hr.R;
 import com.feedback.hr.utilities.Util;
-import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;

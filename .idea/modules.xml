@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Hr.iml" filepath="$PROJECT_DIR$/Hr.iml" />
+      <module fileurl="file://E:\feedback_hr\Hr.iml" filepath="E:\feedback_hr\Hr.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feedback_hr.iml" filepath="$PROJECT_DIR$/feedback_hr.iml" />
     </modules>
   </component>
 </project>

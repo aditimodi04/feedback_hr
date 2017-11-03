@@ -32,4 +32,5 @@
     <string name="digits_for_password">Password Should contain a digit.</string>
     <string name="lower_case_password">Password Should contain a lower case.</string>
     <string name="special_character_password">Password Should contain a special Character(@, #, $, *).</string>
+    <string name="ga_trackingId" translatable="false">${YOUR_TRACKING_ID}</string>
 </resources>

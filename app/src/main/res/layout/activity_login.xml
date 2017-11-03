@@ -5,7 +5,7 @@
     android:background="@color/theme_bg"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="com.feedback.hr.LoginActivity">
+    tools:context="com.feedback.hr.viewControlllers.LoginActivity">
 
 
     <ScrollView

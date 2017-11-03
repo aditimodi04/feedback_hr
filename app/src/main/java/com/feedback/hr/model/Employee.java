@@ -1,4 +1,4 @@
-package com.feedback.hr;
+package com.feedback.hr.model;
 
 /**
  * Created by Aditi on 7/20/2017.
